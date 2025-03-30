@@ -6,3 +6,5 @@ Install cheat engine, load the included file, link with the game exe, tweak the 
 There is also a version for Shogun Total War in my repo.
 
 ![Screenshot of enhanced camera](https://raw.githubusercontent.com/RyanBabij/MTWCameraUnlock/refs/heads/main/MTW-Sample.jpg)
+
+![Screenshot of enhanced camera](https://raw.githubusercontent.com/RyanBabij/MTWCameraUnlock/refs/heads/main/MTW-Sample2.jpg)
